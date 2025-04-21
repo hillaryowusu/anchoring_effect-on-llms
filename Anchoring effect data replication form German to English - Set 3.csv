@@ -1,0 +1,12 @@
+Question,Low Anchor,High Anchor,True value
+"Does Wiesbaden have more or fewer than 1,000,000 inhabitants?",100000,1000000,278609
+Is the maximum speed of a greyhound above or below 100 km/h?,30,100,80
+"Is the Rhine longer or shorter than 2,000 km?",500,2000,1233
+Were more or fewer than 800 babies born per day in Germany in 2020?,800,8000,2112
+Did Germans consume more or less than 40 liters of beer per capita in 2020?,40,110,94.6
+Was the telephone invented before or after 1850?,1850,1920,1861
+In which year was the World Trade Center opened?,1750,2001,1973
+How many people lived in the German Reich in 1880?,15000000,83000000,45000000
+What is the freezing point of mercury in degree celcius?,-70,0,-38.9
+How long does Mars take to orbit the sun?,365,900,687
+How many member states did the EU have in 1995?,8,27,15
